@@ -18,9 +18,12 @@ in this tutorial we will create erc20 with open zepplein framework thats run on 
 - [Metamask](https://metamask.io/download.html) 
 - [Remix IDE (optionial)](https://remix.ethereum.org)
 - [Open Zeppline](https://openzeppelin.com)
+
+
 ## Setup Metamask
+
  ### 1. **Adding Avalache Fuji Testnet network**
- if it's the first time for you using metamask, by default metamask runs on Etherium Mainnet so we need to change the network to Avalache Fuji Testnet network.
+   if it's the first time for you using metamask, by default metamask runs on Etherium Mainnet so we need to change the network to Avalache Fuji Testnet network.
 
   ![Alt Text](https://raw.githubusercontent.com/backstab1212/avalache-tutorial1/main/src/gif/adding%20Avalache%20testnet%20Network.gif)
   + Network Name: Avalanche C-Chain
